@@ -281,11 +281,6 @@ MIT License — free to use, modify, and distribute.
 
 Matrix Calculator API — built for educational and production use.
 
-If you want:
+- Developer [Vihara Senindu](https://github.com/vihara-senindu)
 
-* Express.js version
-* Docker setup
-* Cloud deployment (Railway / Render)
-* API authentication
-
-Just ask 👍
+Happy coding 🚀
